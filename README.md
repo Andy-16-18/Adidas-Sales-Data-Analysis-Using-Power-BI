@@ -16,3 +16,5 @@ Clone the repository to your local machine.
 Use the provided Python scripts to import and clean the sales data.
 Open the Power BI files (.pbix) to explore the data model, visualizations, and insights.
 Refer to the documentation and presentation slides for detailed analysis findings and recommendations.
+
+![adidas](https://github.com/Andy-16-18/Adidas-Sales-Data-Analysis-Using-Power-BI/assets/147121744/911c3763-3b31-481f-9901-427cccaba88c)
